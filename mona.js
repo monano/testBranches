@@ -1,5 +1,5 @@
 alert("monano")
-const x =()=>{
-    return 7+8
+const x =(num1,num2)=>{
+    return num1+num2
 }
-x();
+x(2,4);
